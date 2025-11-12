@@ -6,7 +6,7 @@ layout: default
 
 ## About Me
 
-I am a MA student in Public Policy at the University of Chicago's Harris School, applying to PhD programs in Economics for Fall 2026.
+I am a MA graduate in Public Policy at the University of Chicago's Harris School, applying to PhD programs in Economics for Fall 2026.
 
 My research focuses on **development economics** and **political economy**, with particular emphasis on Latin America. I study how violence, institutions, and labor markets affect human capital formation and economic development.
 
