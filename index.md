@@ -25,7 +25,7 @@ Before coming to Chicago, I worked as a Research Analyst at the **International 
 ## Education
 
 **University of Chicago** | Harris School of Public Policy  
-MA in Public Policy, 2024-2026 (expected)  
+MA in Public Policy, 2024-2025
 *Merit Scholarship*
 
 **Universidad Nacional Mayor de San Marcos** | Lima, Peru  
